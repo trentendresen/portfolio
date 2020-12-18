@@ -5,13 +5,20 @@ nav {
     border-radius: 0;
     font-size: 14px;
     letter-spacing: 5px;
-    
   }
   nav a:hover {
     background-color: black;
   }
   
-  .description {
+   body {
+    background-color: coral;
+  }
+
+  .contact {
+    background-color: coral;
+  }
+
+  .descriptiondsd {
     min-height: 97vh;
     width: 80%;
     height: 90%;
